@@ -1,6 +1,8 @@
 # Energymanager Card for HomeAssistant
 In the past i used homee as main system. But during the time, limitation grew. However, the Energymanager view was pretty good, so i created a version for my new lovelace dashboard.
 
+<img src="docs/images/card_sample.png" alt="Screenshot a sample energymanager card" style="width:35%; height:auto;">
+
 ## Code sample for dashboard yaml
 ```
 type: custom:energy-manager-card
